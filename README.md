@@ -1,4 +1,7 @@
-## Radxa X customised kernel for testing
+## RockPi X customised kernel for testing
 
 * Based on stable kernel
 
+releases
+
+https://github.com/avafinger/radxax/releases/tag/5.16.6
