@@ -56,3 +56,15 @@ If you install a new kernel you may need to add a new entry manually.
   
         /boot/efi/EFI/BOOT/grub/grub.cfg
   
+
+**Creating the USB stick**
+
+* Dowload the file: rockpix_usb_ubuntu_20.04-4GB.img.7z
+* Uncompress using 7z tools
+* Burn the USB file img to the USB stick with your preferred tool
+
+
+**Credentials**
+
+user:     ubuntu
+password: ubuntu
