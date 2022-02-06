@@ -54,5 +54,5 @@ You will be presented a list of kernels, select the one you want to test and hit
 
 If you install a new kernel you may need to add a new entry manually.
   
-        /boot/EFI/BOOT/grub/grub.cfg
+        /boot/efi/EFI/BOOT/grub/grub.cfg
   
