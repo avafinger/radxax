@@ -62,9 +62,16 @@ If you install a new kernel you may need to add a new entry manually.
 * Dowload the file: rockpix_usb_ubuntu_20.04-4GB.img.7z
 * Uncompress using 7z tools
 * Burn the USB file img to the USB stick with your preferred tool
+* In BIOS, choose Boot from USB
+* You may need an RTC to save latest boot configuration
 
 
 **Credentials**
 
-user:     ubuntu
-password: ubuntu
+     user:     ubuntu
+     password: ubuntu
+
+
+Download IMG file from here:
+
+https://github.com/avafinger/radxax/releases/tag/usb-4GB
