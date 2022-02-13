@@ -9,6 +9,7 @@ releases
 * https://github.com/avafinger/radxax/releases/tag/5.17.0-rc2
 * https://github.com/avafinger/radxax/releases/tag/5.16.8 (with some fixes to wifi)
 * https://github.com/avafinger/radxax/releases/tag/5.16.9
+* https://github.com/avafinger/radxax/releases/tag/5.12.8 (add support for wifi variant hw 1.41)
 
 
 ## USB stick with Ubuntu 20.04.3 LTS (CLI) for RockPi X
