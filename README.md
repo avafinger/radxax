@@ -10,7 +10,7 @@ releases
 * https://github.com/avafinger/radxax/releases/tag/5.16.8 (with some fixes to wifi)
 * https://github.com/avafinger/radxax/releases/tag/5.16.9
 * https://github.com/avafinger/radxax/releases/tag/5.12.8 (add support for wifi variant hw 1.41)
-* https://github.com/avafinger/radxax/releases/tag/5.19.2-2 (add support for wifi variant hw 1.41, Bluetooth, sound)
+* https://github.com/avafinger/radxax/releases/tag/5.16.9-2 (add support for wifi variant hw 1.41, Bluetooth, sound)
 
 ## Updating wifi firmare
 
