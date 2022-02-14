@@ -10,7 +10,17 @@ releases
 * https://github.com/avafinger/radxax/releases/tag/5.16.8 (with some fixes to wifi)
 * https://github.com/avafinger/radxax/releases/tag/5.16.9
 * https://github.com/avafinger/radxax/releases/tag/5.12.8 (add support for wifi variant hw 1.41)
+* https://github.com/avafinger/radxax/releases/tag/5.19.2-2 (add support for wifi variant hw 1.41, Bluetooth, sound)
 
+## Updating wifi firmare
+
+To improve wifi experience, update the wifi firmware (thanks to kotori)
+
+        cd /usr/lib/firmware/brcm/
+        sudo mv 'brcmfmac43455-sdio.ROCK Pi-ROCK Pi X.txt' 'brcmfmac43455-sdio.ROCK Pi-ROCK Pi X.txt.radxa'
+        sudo wget https://raw.githubusercontent.com/radxa/rkwifibt/master/firmware/broadcom/AP6254/wifi/nvram_ap6254.txt -O "brcmfmac43455-sdio.Radxa-ROCK Pi X.txt"
+        sudo mv brcmfmac43455-sdio.bin brcmfmac43455-sdio.bin.radxa
+        sudo wget https://raw.githubusercontent.com/RPi-Distro/firmware-nonfree/bullseye/debian/config/brcm80211/cypress/cyfmac43455-sdio.clm_blob -O brcmfmac43455-sdio.clm_blob
 
 ## USB stick with Ubuntu 20.04.3 LTS (CLI) for RockPi X
 
