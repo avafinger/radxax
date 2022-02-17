@@ -2,7 +2,7 @@
 
 * Based on stable kernel
 
-releases
+releases: https://github.com/avafinger/radxax/releases
 
 * https://github.com/avafinger/radxax/releases/tag/5.16.6
 * https://github.com/avafinger/radxax/releases/tag/5.16.7
@@ -12,6 +12,7 @@ releases
 * https://github.com/avafinger/radxax/releases/tag/5.12.8 (add support for wifi variant hw 1.41)
 * https://github.com/avafinger/radxax/releases/tag/5.16.9-2 (add support for wifi variant hw 1.41, Bluetooth, sound)
 * https://github.com/avafinger/radxax/releases/tag/5.17.0-rc4 (add support for wifi variant hw 1.41, Bluetooth, sound)
+* https://github.com/avafinger/radxax/releases/tag/5.16.10-2 (add support for wifi variant hw 1.41, Bluetooth, sound)
 
 
 ## Updating wifi firmare
